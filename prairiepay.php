@@ -6,7 +6,7 @@
  * Time: 8:27 PM
  */
 
-namespace Prairiedev;
+namespace Prairiepay;
 
 
 class payeezy {
