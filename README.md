@@ -1,4 +1,4 @@
-# pairiepay
+# pairiepay extending omnipay
 
 
 
